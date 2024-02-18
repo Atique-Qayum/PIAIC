@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.i = exports.h = exports.g = exports.f = void 0;
+let f = 50;
+exports.f = f;
+let g = 60;
+exports.g = g;
+let h = 70;
+exports.h = h;
+let i = 80;
+exports.i = i;
